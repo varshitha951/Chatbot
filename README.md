@@ -1,0 +1,1 @@
+A simple AI-powered chatbot built using Flask, NLTK, and JSON-based intents to answer college-related queries such as courses, timings, fees, hostel, library, events, etc. It uses a browser UI and processes responses through a trained model.
